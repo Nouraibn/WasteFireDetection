@@ -29,7 +29,7 @@ To reproduce the training:
    ```
    
 ### Contact 📬
-For any inquiries or support, please contact [Noura Ibrahim Alnassar](mailto:Noura_alnassar@hotmail.com).
+For any inquiries or support, please contact [Noura Alnassar](mailto:Noura_alnassar@hotmail.com).
 
 
 Stay safe, innovate, and keep the fire at bay! 🚀🔥
