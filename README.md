@@ -1,25 +1,25 @@
 # Waste Fire Detection 🔥
 
-## Overview 🌍
+## Overview 
 
-The Waste Fire Detection project leverages drones and artificial intelligence (AI) to provide early detection and real-time monitoring of fire incidents in waste management facilities. By identifying smoke and fire at an early stage, this system enhances safety, minimizes damage, and improves emergency response times. 🚁💡
+The Waste Fire Detection project leverages drones and artificial intelligence (AI) to provide early detection and real-time monitoring of fire incidents in waste management facilities. By identifying smoke and fire at an early stage, this system enhances safety, minimizes damage, and improves emergency response times. 
 
 ## Features ✨
 
-- **Early Detection**: Uses AI-powered models to detect smoke and fire before they escalate. 🛑
-- **Enhanced Safety**: Supports rapid response to potential fire hazards. 🚒
-- **Automation**: Reduces reliance on manual monitoring, ensuring continuous surveillance. 🤖
+- **Early Detection**: Uses AI-powered models to detect smoke and fire before they escalate. 
+- **Enhanced Safety**: Supports rapid response to potential fire hazards. 
+- **Automation**: Reduces reliance on manual monitoring, ensuring continuous surveillance. 
 
-## Architecture 🏗️
+## Architecture 
 
 The project integrates drones, AI algorithms, and a central monitoring system:
 
-- **Drones**: Equipped with cameras and environmental sensors for data collection. 🚁
-- **AI System**: Trained using YOLOv8 to process data and detect smoke and fire. 🔍🔥
-- **Monitoring System**: Displays alerts and live feeds for operator review. 📊
-- **Communication**: Real-time data transmission between drones and the monitoring system. 🌐
+- **Drones**: Equipped with cameras and environmental sensors for data collection. 
+- **AI System**: Trained using YOLOv8 to process data and detect smoke and fire. 
+- **Monitoring System**: Displays alerts and live feeds for operator review. 
+- **Communication**: Real-time data transmission between drones and the monitoring system. 
 
-## Datasets and Training 📚🖥️
+## Datasets and Training 
 
 The AI model was trained using the YOLOv8 framework, which offers state-of-the-art object detection capabilities. The dataset includes:
 
@@ -31,4 +31,4 @@ The AI model was trained using the YOLOv8 framework, which offers state-of-the-a
 
 For any inquiries, please contact [Noura Alnassar](mailto:Noura_alnassar@hotmail.com).
 
-Stay safe and keep the fire at bay! 🚀🔥
+Stay safe and keep the fire at bay!🔥
