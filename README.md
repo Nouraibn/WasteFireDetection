@@ -32,4 +32,6 @@ To reproduce the training:
 For any inquiries or support, please contact [Noura Alnassar](mailto:Noura_alnassar@hotmail.com).
 
 
-Stay safe, innovate, and keep the fire at bay! 🚀🔥
+
+
+Stay safe and keep the fire at bay! 🚀🔥
