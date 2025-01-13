@@ -26,16 +26,9 @@ The AI model was trained using the YOLOv8 framework, which offers state-of-the-a
 - Images of waste facilities under various conditions.
 - Annotated data for smoke and fire detection.
 
-To reproduce the training:
-
-1. Prepare your dataset in the YOLO format.
-2. Train the model with the following command:
-   ```bash
-   yolo train model=yolov8 dataset=your-dataset-path epochs=50
-   ```
 
 ## Contact 📬
 
-For any inquiries or support, please contact [Noura Alnassar](mailto:Noura_alnassar@hotmail.com).
+For any inquiries, please contact [Noura Alnassar](mailto:Noura_alnassar@hotmail.com).
 
 Stay safe and keep the fire at bay! 🚀🔥
