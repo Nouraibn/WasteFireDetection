@@ -27,53 +27,9 @@ To reproduce the training:
    ```bash
    yolo train model=yolov8 dataset=your-dataset-path epochs=50
    ```
-
-## Installation 🛠️
-Follow these steps to set up the project:
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/waste-fire-detection.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd waste-fire-detection
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Set up the drone hardware and configure the connection with the monitoring system.
-
-## Usage 🚀
-1. Deploy the drones in the target area. 🚁
-2. Start the monitoring system:
-   ```bash
-   python monitor.py
-   ```
-3. View real-time alerts and video feeds from the dashboard. 📺
-4. Respond to alerts as necessary. ⚡
-
-## Contributing 🤝
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add feature or fix bug"
-   ```
-4. Push the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
-
-## License 📜
-This project is licensed under the [MIT License](LICENSE).
-
----
-
+   
 ### Contact 📬
 For any inquiries or support, please contact [Noura Ibrahim Alnassar](mailto:Noura_alnassar@hotmail.com).
+
+
+Stay safe, innovate, and keep the fire at bay! 🚀🔥
